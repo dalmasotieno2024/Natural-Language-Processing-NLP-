@@ -1,5 +1,5 @@
-Text Cleaning and Tokenization
-Stopword Removal and Normalization
-Generate N -grams and Analyze Frequent Terms
-Apply Sentiment Analysis to Preprocessed Text
-Evaluate the Preprocessing Pipeline
+1.Text Cleaning and Tokenization
+2.Stopword Removal and Normalization
+3.Generate N -grams and Analyze Frequent Terms
+4.Apply Sentiment Analysis to Preprocessed Text
+5.Evaluate the Preprocessing Pipeline
